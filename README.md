@@ -1,4 +1,4 @@
-# Full Stack Trivia API Project
+# Trivia API Full Stack Project
 
 Academic purpose Project developed by Udacity completed by Carlos Castillo M.
 
