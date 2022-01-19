@@ -5,9 +5,10 @@ Academic purpose Project developed by Udacity completed by Carlos Castillo M.
 The student was asked to modify the back and frontend of a partially developed application.
 
 Proven use of:
-SQLalchemy - Backend.
-Flask - Backend.
-Endpoint modification of API - Frontend.
+
+1) SQLalchemy - Backend.
+2) Flask - Backend.
+3) Endpoint modification of API - Frontend.
 
 
 ## Full Stack Trivia - Udacity Description
