@@ -1,6 +1,16 @@
-# Full Stack API Final Project
+# Full Stack Trivia API Project
 
-## Full Stack Trivia
+Academic purpose Project developed by Udacity completed by Carlos Castillo
+
+the student was asked to modify the back and frontend of a partially developed application.
+
+Proven use of:
+SQLalchemy - Backend
+Flask - Backend
+Endpoint modification of API - Frontend
+
+
+## Full Stack Trivia - Udacity Description
 
 Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a  webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out. 
 
