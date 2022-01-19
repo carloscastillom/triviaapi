@@ -1,13 +1,13 @@
 # Full Stack Trivia API Project
 
-Academic purpose Project developed by Udacity completed by Carlos Castillo
+Academic purpose Project developed by Udacity completed by Carlos Castillo M.
 
-the student was asked to modify the back and frontend of a partially developed application.
+The student was asked to modify the back and frontend of a partially developed application.
 
 Proven use of:
-SQLalchemy - Backend
-Flask - Backend
-Endpoint modification of API - Frontend
+SQLalchemy - Backend.
+Flask - Backend.
+Endpoint modification of API - Frontend.
 
 
 ## Full Stack Trivia - Udacity Description
